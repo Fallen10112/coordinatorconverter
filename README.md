@@ -12,6 +12,4 @@ The files should be quick and easy to implement and utilize. Simply download the
 This self contained site shall output coordinates you provide into the format of 00 00 00 N/S 000 00 00 E/W
 
 <h2>Contributions</h2>
-Myself
-
-##Test
+## Myself
