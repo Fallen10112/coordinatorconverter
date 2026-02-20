@@ -11,5 +11,5 @@ The files should be quick and easy to implement and utilize. Simply download the
 <h2>Usage</h2>
 This self contained site shall output coordinates you provide into the format of 00 00 00 N/S 000 00 00 E/W
 
-<h2>Contributing/h2>
+<h2>Contributing</h2>
 ## Myself
